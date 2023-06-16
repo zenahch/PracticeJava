@@ -1,4 +1,4 @@
-package Zena_Solutions;
+package JavaPractice_Tasks;
 
 public class ReverseNumber {
     public static void main(String[] args) {

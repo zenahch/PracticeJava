@@ -1,4 +1,4 @@
-package day15_practices;
+package JavaPractice_Tasks;
 
 public class DivisibleBy {
 

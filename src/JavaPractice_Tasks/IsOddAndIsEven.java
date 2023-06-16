@@ -1,4 +1,4 @@
-package day13_practices;
+package JavaPractice_Tasks;
 
 public class IsOddAndIsEven {
 
